@@ -38,7 +38,7 @@ Kaggle competitions
 
 PyTorch-based deep learning pipelines
 
-🧩 **Multi-Agent Story Generation System**
+🧩 **Multi-Agent Story Generation System**  — 
 I built a multi-agent AI system where specialized agents (plot, character, pacing, tone, continuity) collaborate to generate coherent long-form stories.  
 Key features:
 - Agent-based planning & memory
